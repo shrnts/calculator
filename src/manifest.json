@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "short_name": "calculator",
+  "description": "Simple calculator that can be used to perform basic arithmetic operations",
+  "theme_color": "#ffffff"
+}
